@@ -4,7 +4,7 @@
 #
 Name     : R-lsei
 Version  : 1.2.0.1
-Release  : 16
+Release  : 17
 URL      : https://cran.r-project.org/src/contrib/lsei_1.2-0.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/lsei_1.2-0.1.tar.gz
 Summary  : Solving Least Squares or Quadratic Programming Problems under
@@ -38,10 +38,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1588773918
+export SOURCE_DATE_EPOCH=1589825780
 
 %install
-export SOURCE_DATE_EPOCH=1588773918
+export SOURCE_DATE_EPOCH=1589825780
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
