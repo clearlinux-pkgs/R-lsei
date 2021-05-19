@@ -4,7 +4,7 @@
 #
 Name     : R-lsei
 Version  : 1.3.0
-Release  : 23
+Release  : 24
 URL      : https://cran.r-project.org/src/contrib/lsei_1.3-0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/lsei_1.3-0.tar.gz
 Summary  : Solving Least Squares or Quadratic Programming Problems under
